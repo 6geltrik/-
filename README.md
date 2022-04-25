@@ -13,7 +13,7 @@
 
 Το πρόγραμμα λειτουργίας της κατασκευής βρίσκεται στον φάκελο PROGRAM.
 
-https://github.com/6geltrik/AUTONOMOUS-MOWER/tree/main/PROGRAM/sketch_apr01-5
+https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PROGRAM/sketch_apr01-5/sketch_apr01-5.ino
 
 # ΥΛΙΚΑ
 
