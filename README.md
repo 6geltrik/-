@@ -15,6 +15,8 @@
 
 https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PROGRAM/sketch_apr01-5/sketch_apr01-5.ino
 
+Την κατασκευή και λειτουργία την βλέπουμε στο παρακάτω αρχείο
+
 https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PHOTOS/XORTOKOPTIKO.mpeg
 
 
