@@ -15,6 +15,9 @@
 
 https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PROGRAM/sketch_apr01-5/sketch_apr01-5.ino
 
+https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PHOTOS/XORTOKOPTIKO.mpeg
+
+
 # ΥΛΙΚΑ
 
 1 arduino
