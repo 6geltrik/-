@@ -15,11 +15,11 @@
 
 https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PROGRAM/sketch_apr01-5/sketch_apr01-5.ino
 
-Την κατασκευή και λειτουργία την βλέπουμε στην παρακάτω διεύθυνση 
+Την κατασκευή και λειτουργία την βλέπουμε στην διεύθυνση: 
 https://youtu.be/JbiaSWNedms
 
 
-https://github.com/6geltrik/AUTONOMOUS-MOWER/blob/main/PHOTOS/XORTOKOPTIKO.mpeg
+
 
 
 # ΥΛΙΚΑ
